@@ -1,0 +1,9 @@
+.form-group {
+    margin: auto;
+    width: 40%;
+    text-align: center;
+}
+form {
+    background-color: rgb(70, 70, 70);
+    padding-bottom: 25px;
+}
